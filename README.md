@@ -1,0 +1,4 @@
+Bamazon is a Node JS and CLI application in which a user can make purchases from a SQL database. Simply run the bamazonCustomer JS file via Node and follow the prompts (may appear above inventory list). After entering an item ID and a quantity, the application will either deny the request if not enough inventory exists or it will fulfill the request if there is enough inventory. The database will update accordingly, and the purchase amount will be displayed to the customer. After each result, the connection to Bamazon will be severed. Try it out!
+
+
+[Video Demo](https://drive.google.com/open?id=1StAVRVIHtAS1uXgoJSL_NPWuqDx5YIwe)
